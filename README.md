@@ -2,6 +2,7 @@
 # Astro E-Commerce
 
 Welcome to Astro E-Commerce! This is a modern e-commerce website template built using Astro, a modern static site builder for the modern web. 
+![astro3](https://github.com/fahad0samara/astro-E-Commerce/assets/90055525/b56facf7-b271-4b21-ab31-ab94368852b0)
 
 ## Features
 
